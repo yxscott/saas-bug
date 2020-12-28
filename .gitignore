@@ -1,8 +1,8 @@
 # pycharm
 .idea/
 
-__pycache__
-*.py
+__pycache__/
+*.py[cod]
 
 # Django stuff
 local_settings.py
